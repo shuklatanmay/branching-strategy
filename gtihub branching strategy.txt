@@ -1,0 +1,14 @@
+gtihub branching strategy
+
+github tags
+
+100 microservices 
+
+
+1 sc - bug fix 
+
+delete the stale feature branches after merging into dev branch
+
+Git tag -  microservice version or release no.
+
+2 sc - tagging in complete branch to check all the history of versions
